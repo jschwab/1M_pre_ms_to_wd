@@ -20,8 +20,10 @@ fi
 # link 
 ln -sf inlist_r11554 inlist_case
 
+export MESA_CACHES_DIR=/dev/shm
+
 # run MESA
-./rn
+#./rn
 
 # link 
 ln -sf inlist_noELM inlist_case
