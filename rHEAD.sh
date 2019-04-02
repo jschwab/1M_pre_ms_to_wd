@@ -20,6 +20,13 @@ fi
 # link 
 ln -sf inlist_rHEAD inlist_case
 
+# run MESA and record
+./rn > rn.out
+grep "WARNING (ELM)" > elm.warn
+
+# link
+ln -sf inlist_cubicX inlist_case
+
 # run MESA
 ./rn
 
