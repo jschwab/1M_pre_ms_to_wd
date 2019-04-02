@@ -1,0 +1,12 @@
+&star_job
+
+    eosDT2PTEH_use_linear_interp_for_X = .false.
+
+/
+
+
+&controls
+
+    log_directory = 'r11589-cubicX'
+
+/
