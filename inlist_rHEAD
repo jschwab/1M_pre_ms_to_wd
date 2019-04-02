@@ -5,6 +5,7 @@
 
 &controls
 
-    log_directory = 'r11589'
+    check_elm_helm_agreement = .true.
+    log_directory = 'r11590'
 
 /
