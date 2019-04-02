@@ -1,0 +1,6 @@
+&controls
+
+    log_directory = 'noELM'
+    use_eosELM = .false.
+
+/
