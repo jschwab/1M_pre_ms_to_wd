@@ -32,9 +32,9 @@
       trace_history_value_name(2) = 'log_rel_run_E_err'
 
       ! check for retries and backups as part of test_suite
-         max_number_backups = 0
-         max_number_retries = 20
-         max_model_number = 6000
+         ! max_number_backups = 0
+         ! max_number_retries = 20
+         ! max_model_number = 6000
 
       initial_mass = 1.0
       initial_z = 0.02d0
