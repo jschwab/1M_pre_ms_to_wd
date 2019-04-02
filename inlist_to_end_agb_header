@@ -12,6 +12,12 @@
       read_extra_controls_inlist1 = .true.
       extra_controls_inlist1_name = 'inlist_to_end_agb'
 
+      star_history_name = 'to_end_agb.data'
+
+      read_extra_controls_inlist2 = .true.
+      extra_controls_inlist2_name = 'inlist_case'
+
+
 / ! end of controls namelist
 
 
