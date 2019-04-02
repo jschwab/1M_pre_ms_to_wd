@@ -26,3 +26,5 @@ ln -sf inlist_r11554 inlist_case
 # link 
 ln -sf inlist_noELM inlist_case
 
+# run MESA
+./rn
