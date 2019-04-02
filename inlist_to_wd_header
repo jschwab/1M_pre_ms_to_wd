@@ -1,8 +1,12 @@
 
 &star_job
 
+      read_extra_star_job_inlist1 = .true.
+      extra_star_job_inlist1_name = 'inlist_to_wd'
+
       read_extra_star_job_inlist2 = .true.
-      extra_star_job_inlist2_name = 'inlist_to_wd'
+      extra_star_job_inlist2_name = 'inlist_case'
+
 
 / ! end of star_job namelist
 
